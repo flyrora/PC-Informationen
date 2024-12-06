@@ -54,4 +54,4 @@ Antwort von 0.0.0.0: Zeit=00ms TTL=000
 ## Anpassungen
 Wenn du die Zeit vor dem automatischen Schließen ändern möchtest, bearbeite diese Zeile im Skript:
 
-timeout /t 10 >nul
+``` timeout /t 10 >nul``` 
