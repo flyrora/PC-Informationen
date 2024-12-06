@@ -1,6 +1,3 @@
-Hier ist eine passende `README.md`-Datei, die du für dein GitHub-Repository verwenden kannst. Sie beschreibt den Zweck und die Funktionsweise des Batch-Skripts und enthält Anweisungen zur Nutzung.
-
-```markdown
 # PC-Informationen by Flyrora
 
 Dieses Batch-Skript zeigt detaillierte Informationen über deinen PC sowie deine Netzwerkverbindung an, inklusive IP-Adressen und Ping. Es ist nützlich, um System- und Netzwerkdaten schnell und einfach abzurufen.
@@ -52,33 +49,3 @@ Wi-Fi-Verbindung Verbunden
 
 Ping anzeigen:
 Antwort von 8.8.8.8: Zeit=12ms TTL=118
-```
-
-## Anpassungen
-
-Wenn du die Zeit vor dem automatischen Schließen ändern möchtest, bearbeite diese Zeile im Skript:
-
-```batch
-timeout /t 10 >nul
-```
-
-Ändere die Zahl `10` auf die gewünschte Zeit in Sekunden.
-
-## Voraussetzungen
-
-- Betriebssystem: **Windows**.
-- Die Datei muss mit der Endung `.bat` gespeichert sein.
-- Stelle sicher, dass du die Berechtigungen hast, das Skript auszuführen.
-
-## Lizenz
-
-Dieses Projekt steht unter der **MIT-Lizenz**. Siehe die Datei [LICENSE](LICENSE) für weitere Details.
-```
-
-### Wie füge ich die README.md hinzu?
-
-1. Erstelle ein neues Repository auf GitHub.
-2. Lade dein `.bat`-Skript hoch.
-3. Erstelle eine Datei mit dem Namen `README.md`.
-4. Kopiere den obigen Text in die `README.md` und speichere sie.
-5. Fertig! Dein GitHub-Repository ist jetzt gut dokumentiert.
