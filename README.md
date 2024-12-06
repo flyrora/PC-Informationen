@@ -1,4 +1,4 @@
-# PC-Informationen by Flyrora
+# 📑 PC-Informationen by Flyrora
 
 Dieses Batch-Skript zeigt detaillierte Informationen über deinen PC sowie deine Netzwerkverbindung an, inklusive IP-Adressen und Ping. Es ist nützlich, um System- und Netzwerkdaten schnell und einfach abzurufen.
 
