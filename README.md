@@ -14,7 +14,7 @@ Dieses Batch-Skript zeigt detaillierte Informationen über deinen PC sowie deine
 
 ## Verwendung
 
-1. Lade die Datei `PC_Infos_Flyrora.bat` aus diesem Repository herunter.
+1. Lade die Datei `pc-info.bat` aus diesem Repository herunter.
 2. Doppelklicke die `.bat`-Datei, um sie auszuführen.
 3. Das Skript zeigt die PC- und Netzwerkdaten an und führt einen Ping-Test durch.
 4. Das Fenster bleibt nach der Ausführung offen und wartet auf Benutzereingaben.
