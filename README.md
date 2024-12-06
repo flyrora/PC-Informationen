@@ -30,22 +30,28 @@ Computername: MYCOMPUTER
 Benutzername: MyUser
 
 Betriebssystemdetails:
-Betriebssystemname: Microsoft Windows 10 Pro
-Betriebssystemversion: 10.0.19045 Nicht zutreffend
+Betriebssystemname: Betriebssystemname
+Betriebssystemversion: Betriebssystemversion
 
 Prozessor und Arbeitsspeicher:
 Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
-16777216
 
 Festplatteninformationen:
 C: NTFS 500107862016 238945234432
 
 IP-Adressen:
-IPv4-Adresse: 192.168.1.100
-IPv6-Adresse: fe80::1a2b:3c4d:5e6f:7g8h
+IPv4-Adresse: 000.00.0.000
+IPv6-Adresse: Deine Ip6 Adresse
 
 Netzwerkadapterstatus:
 Wi-Fi-Verbindung Verbunden
 
 Ping anzeigen:
-Antwort von 8.8.8.8: Zeit=12ms TTL=118
+Antwort von 0.0.0.0: Zeit=00ms TTL=000
+
+```
+
+## Anpassungen
+Wenn du die Zeit vor dem automatischen Schließen ändern möchtest, bearbeite diese Zeile im Skript:
+
+timeout /t 10 >nul
